@@ -10,11 +10,11 @@ header {
     border-bottom: solid 2px rgb(226, 105, 96);
     padding: 20px;
     font-size: 32px;
-    color: rgb(129, 4, 98);
+    color: rgb(136, 78, 121);
 }
 
 .chamada {
-    background: rgb(64, 8, 124);
+    background: rgb(154, 109, 202);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
